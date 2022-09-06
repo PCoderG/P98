@@ -1,0 +1,27 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+
+body{
+    background-image: radial-gradient(rgb(139, 139, 255), rgb(255, 139, 139),rgb(255, 189, 66));
+}
+.col{
+    border: 1px black solid;
+    
+}
